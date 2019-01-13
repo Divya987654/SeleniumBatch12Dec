@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7572" started-at="2019-01-11T12:13:16Z" finished-at="2019-01-11T12:13:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7572" started-at="2019-01-11T12:13:16Z" finished-at="2019-01-11T12:13:24Z">
+      <class name="Second">
+        <test-method status="PASS" signature="failTest()[pri:0, instance:Second@687080dc]" name="failTest" duration-ms="10" started-at="2019-01-11T12:13:16Z" finished-at="2019-01-11T12:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failTest -->
+        <test-method status="PASS" signature="openPage()[pri:0, instance:Second@687080dc]" name="openPage" duration-ms="7536" started-at="2019-01-11T12:13:16Z" finished-at="2019-01-11T12:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPage -->
+        <test-method status="PASS" signature="passTest()[pri:0, instance:Second@687080dc]" name="passTest" duration-ms="1" started-at="2019-01-11T12:13:24Z" finished-at="2019-01-11T12:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passTest -->
+      </class> <!-- Second -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
